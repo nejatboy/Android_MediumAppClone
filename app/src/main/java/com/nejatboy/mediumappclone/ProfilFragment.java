@@ -294,4 +294,6 @@ public class ProfilFragment extends Fragment {
 
         return Bitmap.createScaledBitmap(image, genislik, yukseklik, true);
     }
+
+    //DENEME DEĞİŞİKLİK
 }
