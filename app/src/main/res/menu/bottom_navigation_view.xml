@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaNav"
+        android:icon="@drawable/resim_anasayfa" />
+    <item
+        android:id="@+id/favorilerNav"
+        android:icon="@drawable/resim_favori" />
+    <item
+        android:id="@+id/profilNav"
+        android:icon="@drawable/resim_profil" />
+</menu>
